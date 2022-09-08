@@ -21,3 +21,6 @@ The below image shows how the atan2 works on the circle(converted from radians t
 The problem:
 
 While the robot is turning, the robot doesnt stay on the place and move little bit. This cause the robot is off to the target by 1-2 deg. 
+
+Video:
+https://youtube.com/shorts/9nvmp_eWTgM?feature=share
